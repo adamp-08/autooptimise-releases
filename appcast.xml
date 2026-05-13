@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AutoOptimise</title>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Thu, 14 May 2026 00:00:40 +0100</pubDate>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h1>AutoOptimise 0.2.2</h1>
+<p>Build 202.</p>
+]]></description>
+            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-0.2.2-202.zip" length="2373433" type="application/octet-stream" sparkle:edSignature="2V3n7ZrWoMKE2l8A8Ry0AhTuQI3EEzhfjBy4F9wPGMIlRPf0CUriaazIIviJgA2Va8cu+FLkYidWU8gPywfSCA=="/>
+        </item>
+    </channel>
+</rss>

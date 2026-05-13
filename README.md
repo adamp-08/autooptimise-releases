@@ -34,7 +34,7 @@ AutoOptimise uses [Sparkle](https://sparkle-project.org/) for automatic macOS up
 Sparkle reads the public update feed:
 
 ```text
-https://<github-username>.github.io/<repo-name>/appcast.xml
+https://adamp-08.github.io/autooptimise-releases/appcast.xml
 ```
 
 The feed points to signed release archives hosted on GitHub Releases.
@@ -43,12 +43,15 @@ The feed points to signed release archives hosted on GitHub Releases.
 
 ```text
 appcast.xml
+downloads/
+  AutoOptimise-1.0.0-100.zip
+  AutoOptimise-1.0.1-101.zip
 release-notes/
   1.0.0.html
   1.0.1.html
 ```
 
-GitHub Releases should contain the zipped `.app` builds.
+The `downloads/` directory contains the zipped `.app` builds used by Sparkle.
 
 ## Release Checklist
 
