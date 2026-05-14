@@ -3,6 +3,22 @@
     <channel>
         <title>AutoOptimise</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 14 May 2026 21:03:31 +0100</pubDate>
+            <sparkle:version>1100</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h1>AutoOptimise 1.1.0</h1>
+<p>Build 1100.</p>
+]]></description>
+            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-1.1.0-1100-notarized.zip" length="2415296" type="application/octet-stream" sparkle:edSignature="mtWX5+iBwKi1Fm3iEQzRnjGtXsq1fvscjuBO2cZyg9tVfpPJjat8pqy28URcpQ3lX3xUVNtp3ciUcBq3oFrzDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise1100-1001.delta" sparkle:deltaFrom="1001" length="166978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02q5T/za67zayrilAcHTTzx/JCzJp8a/YLnP1sDLUbZ0BA4fnmU5HX9vD5mdLZJrk62lP+u1Aekc7MgQbwjLDw=="/>
+                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise1100-1000.delta" sparkle:deltaFrom="1000" length="166234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XY8gyEUuK3xHowuJVXWzrlxLo1a3+MuhQ3oenR7rZkIhSFK40BpqmBhCZAbPE9QrofWn7XOOV2X68Ljx6Xc6Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 14 May 2026 20:46:01 +0100</pubDate>
             <sparkle:version>1001</sparkle:version>
@@ -13,9 +29,6 @@
 <p>Build 1001.</p>
 ]]></description>
             <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-1.0.1-1001-notarized.zip" length="2355702" type="application/octet-stream" sparkle:edSignature="YiqIx6dOdNYduGnYe3OkaEfAfZxoROUDw7dcPQwjxll3FtayiQmahoID8I2GlqpKQ8b8T7W7ibIGRApfnymcCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise1001-1000.delta" sparkle:deltaFrom="1000" length="11274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sshE0eF4LaQCx/oEaYC3Ll8RreWukeKDd7eHEDHVxCm/DTBu+1YBlWhojLxN59pyNDLn7cLdu5Qz+MJRtieWAA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0</title>
