@@ -19,13 +19,13 @@ Download the latest version from the repository's **Releases** page.
 Each release should include a zip archive named like:
 
 ```text
-AutoOptimise-1.0.0-100.zip
+AutoOptimise-1.0.0-1000-notarized.zip
 ```
 
 Where:
 
 - `1.0.0` is the user-facing app version.
-- `100` is the internal build number.
+- `100` is the internal build number. This must increase for every release.
 
 ## Auto Updates
 
@@ -44,8 +44,8 @@ The feed points to signed release archives hosted on GitHub Releases.
 ```text
 appcast.xml
 downloads/
-  AutoOptimise-1.0.0-100.zip
-  AutoOptimise-1.0.1-101.zip
+  AutoOptimise-1.0.0-1000-notarized.zip
+  AutoOptimise-1.0.1-1001-notarized.zip
 release-notes/
   1.0.0.html
   1.0.1.html
@@ -55,12 +55,10 @@ The `downloads/` directory contains the zipped `.app` builds used by Sparkle.
 
 ## Release Checklist
 
-1. Build a versioned app archive.
-2. Sign the archive with Sparkle's EdDSA key.
-3. Upload the zip to GitHub Releases.
-4. Update `appcast.xml`.
-5. Add or update release notes.
-6. Confirm an older installed app detects the new version.
+1. Build and notarize a versioned app archive.
+2. Update `appcast.xml` with Sparkle's EdDSA signature.
+3. Push the changed release files.
+4. Confirm an older installed app detects the new version.
 
 ## Notes
 

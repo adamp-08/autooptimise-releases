@@ -3,60 +3,16 @@
     <channel>
         <title>AutoOptimise</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Thu, 14 May 2026 20:25:34 +0100</pubDate>
-            <sparkle:version>204</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h1>AutoOptimise 0.2.4</h1>
-<p>Build 204.</p>
-]]></description>
-            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-0.2.4-204-notarized.zip" length="2420310" type="application/octet-stream" sparkle:edSignature="1JNiuMBEKJo3+MCg3vzvL834opkHArNsf0d/XR7X5MS5YwJfNu9CxDPJtRunUaEaZxXGFJc9hDkTPAmy9wxICA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise204-203.delta" sparkle:deltaFrom="203" length="10722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vtCX3ChKF1nYI5kdaDSsd7fBRb/OuTTDcPXRn/tXJAOGeseufmOs+RVQD8NqfljP4Zf086HLJ2PIJfSE3wFuDQ=="/>
-                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise204-202.delta" sparkle:deltaFrom="202" length="18754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SeEO0TiyFIK/Hx70vBbDyQyq7EFZDeFQ0I50Fq9/TFtSS8xGBt4ABHQlkBIynnZLcDWJCuijqaaxAPReoT13Aw=="/>
-                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise204-100.delta" sparkle:deltaFrom="100" length="11382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XMwQi58bsN9UIP9vAn/+yblgaafr9eSFZ3h3HJUvb19t7iB7i0YkhLmPcg2yd/TegFZL0Ih03/vYbo5SeETfDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.3</title>
-            <pubDate>Thu, 14 May 2026 20:18:07 +0100</pubDate>
-            <sparkle:version>203</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h1>AutoOptimise 0.2.3</h1>
-<p>Build 203.</p>
-]]></description>
-            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-0.2.3-203.zip" length="2418501" type="application/octet-stream" sparkle:edSignature="x+BmrFp2lwe8T8eogSMU+qCBWAnXLTaGbFY1FVr8u1AZNBM84TWDCO+13dzoh1wqalVy8sb42FLWKCETtJu0DA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise203-202.delta" sparkle:deltaFrom="202" length="17894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a39LE0VAnLQW+xCJRSyW/EoWxWUMaVqD6UtiFybi3IGmbO8ABXhcmFyKUDMWaVtPz9wBWIR2sogd2W6bJnqvBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 14 May 2026 00:00:40 +0100</pubDate>
-            <sparkle:version>202</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h1>AutoOptimise 0.2.2</h1>
-<p>Build 202.</p>
-]]></description>
-            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-0.2.2-202.zip" length="2373433" type="application/octet-stream" sparkle:edSignature="2V3n7ZrWoMKE2l8A8Ry0AhTuQI3EEzhfjBy4F9wPGMIlRPf0CUriaazIIviJgA2Va8cu+FLkYidWU8gPywfSCA=="/>
-        </item>
-        <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 14 May 2026 20:29:03 +0100</pubDate>
-            <sparkle:version>100</sparkle:version>
+            <pubDate>Thu, 14 May 2026 20:35:01 +0100</pubDate>
+            <sparkle:version>1000</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h1>AutoOptimise 1.0.0</h1>
-<p>Build 100.</p>
+<p>Build 1000.</p>
 ]]></description>
-            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-1.0.0-100-notarized.zip" length="2420288" type="application/octet-stream" sparkle:edSignature="TWEGG9LCsWwDrc0yDDQ0wdzaFLmrFXD0E+9nW3W+qP0f2lkRi1rXd5pOrl6maYKU6nrV/VurdrWMjCUMasjnBg=="/>
+            <enclosure url="https://adamp-08.github.io/autooptimise-releases/downloads/AutoOptimise-1.0.0-1000-notarized.zip" length="2420273" type="application/octet-stream" sparkle:edSignature="0v8XBzSE3jeYXg6KPkbaNsWJenhrLSJY6khBWtX4bCxUPIaHbzByTLl2cRkeN/nOeJtGz2gXMjh8te7m1lt6CA=="/>
         </item>
     </channel>
 </rss>
